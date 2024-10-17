@@ -13,6 +13,10 @@ A novel semantic-enhanced DPP representation learning method with a negative tra
 
 ![image](https://github.com/AlexCostra/SENT-DTI/blob/main/Utils/model_picture.png)
 
+## Requirements
+- Python >= 3.6
+- Pytorch >= 1.7
+
 ## Folder Specification
 
 - **main.py:** Please excuate this file.
