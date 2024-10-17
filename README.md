@@ -2,10 +2,10 @@
 
 The code is from our new paper in the field of Drug-Target prediction., entitled'' SENT-DTI: Semantic-Enhanced Drug-Target Interaction Prediction with Negative Training Strategy ''. SENT-DTI is a powerful tool designed for DTI prediction task, which leverages advanced algorithms to improve efficiency and accuracy.
 ## Highlight
-- **1:** As for the lack of semantic interactive information on DPPN, we design a novel feature fuse method on DPPN. Specifically, It extracts pairwise interactive semantic features through a bidirectional encoder-decoder based on self-attention. These features can be further incorporated into DPPN and used to learn augmented DPP feature representation through a semantic-aware GCN on the semantic Drug Protein Pair Network (DPPN).
- - **2:** We design a simple yet effective NT strategy for false-negative drug-target association issue to adaptively optimize the probability distribution of positive DPPs through a binary association-specific negative loss function and identify false-negative DPP associations by a Unified High-Confidence false-negative DPP association filtering (UHCF) mechanism. To our knowledge, this is the first work to mitigate DPP false-negative association for the DTI prediction task.
+-  As for the lack of semantic interactive information on DPPN, we design a novel feature fuse method on DPPN. Specifically, It extracts pairwise interactive semantic features through a bidirectional encoder-decoder based on self-attention. These features can be further incorporated into DPPN and used to learn augmented DPP feature representation through a semantic-aware GCN on the semantic Drug Protein Pair Network (DPPN).
+ -  We design a simple yet effective NT strategy for false-negative drug-target association issue to adaptively optimize the probability distribution of positive DPPs through a binary association-specific negative loss function and identify false-negative DPP associations by a Unified High-Confidence false-negative DPP association filtering (UHCF) mechanism. To our knowledge, this is the first work to mitigate DPP false-negative association for the DTI prediction task.
 
- - **3:** Our experimental results show that SENT-DTI outperforms SOTA baselines on benchmark
+ -  Our experimental results show that SENT-DTI outperforms SOTA baselines on benchmark
 datasets, whereby ablation experiments further confirm the effectiveness of our two new techniques, i.e. Semantic DPPN representation learning and FNDNT.
 
 ## Model Architecture
