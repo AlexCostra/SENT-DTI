@@ -4,7 +4,7 @@ The code is from our new paper in the field of Drug-Target prediction., entitled
 ## Model Architecture
 A novel semantic-enhanced DPP representation learning method with a negative training strategy entitled SENT-DTI is proposed to identify potential DTIs. As depicted in the below figure, SENT-DTI comprises three main modules: interactive feature augmentation module, independent feature extraction module, and false-negative DPP association identification module.
 
-![image](https://github.com/AlexCostra/SENT-DTI/blob/main/图片b.png)
+![image](https://github.com/AlexCostra/SENT-DTI/blob/main/Utils/model_picture.png)
 
 ## Folder Specification
 
