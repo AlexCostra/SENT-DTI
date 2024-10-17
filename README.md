@@ -11,8 +11,8 @@ The code is from our new paper in the field of Drug-Target prediction., entitled
 (1) Please use proteinSquence.txt and smiles.txt to input into data_preprocess.py for precessing sequence data.
 ```bash
 cd SENT-DTI/Utils
-python data_preprocess .py  ` ``` `
-
+python data_preprocess .py 
+``` 
 
 (2) Please use  mat_drug_protein_drug.txt  as input of generate_dataset_cli.py for generating DPP network.
 ```bash
