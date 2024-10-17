@@ -1,6 +1,11 @@
 # SENT-DTI
 The code is from our new paper in the field of Drug-Target prediction., entitled'' SENT-DTI: Semantic-Enhanced Drug-Target Interaction Prediction with Negative Training Strategy ''. SENT-DTI is a powerful tool designed for DTI prediction task, which leverages advanced algorithms to improve efficiency and accuracy.
 
+##Model Architecture
+A novel semantic-enhanced DPP representation learning method with a negative training strategy entitled SENT-DTI is proposed to identify potential DTIs. As depicted in Figure~\ref{f1}, SENT-DTI comprises three main modules: interactive feature augmentation module, independent feature extraction module, and false-negative DPP association identification module.
+
+!{https://github.com/AlexCostra/SENT-DTI/blob/main/%E5%9B%BE%E7%89%87b.png]
+
 ## Folder Specification
 
 - **main.py:** Please excuate this file.
