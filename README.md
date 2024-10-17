@@ -14,13 +14,13 @@ The code is from our new paper in the field of Drug-Target prediction., entitled
 cd SENT-DTI/Utils
 python data_preprocess .py 
 ``` 
-#### DPP Network generation
+### (2) DPP Network generation
   Please use  mat_drug_protein_drug.txt  as input of generate_dataset_cli.py for generating DPP network.
 ```bash
 cd SENT-DTI/Utils
 python generate_dataset_cli.py
 ``` 
-#### DTI prediction
+### (3) DTI prediction
   To excecute SENT-DTI, please run the following command:
 
 ```bash
