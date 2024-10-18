@@ -31,14 +31,14 @@ A novel semantic-enhanced DPP representation learning method with a negative tra
 cd SENT-DTI/Utils
 python data_preprocess .py 
 ``` 
-### (2) DPP Network generation
+#### (2) DPP Network generation
   Please use  mat_drug_protein_drug.txt  as input of generate_dataset_cli.py for generating DPP network.
 ```bash
 cd SENT-DTI/Utils
 python generate_dataset_cli.py
 ``` 
-### (3) DTI prediction
-  To excecute SENT-DTI, please run the following command:
+###$ (3) DTI prediction
+  To excecute SENT-DTI, please run the following command. The contents include model train and model test:
 
 ```bash
 cd SENT-DTI
@@ -46,3 +46,5 @@ python main.py
 ``` 
 ## Acknowledgement
 We sincerely thank Weiyu Shi for providing code. Please contact us with email: standyshi@qq.com
+<p><b><i><font size="4">If you are interested in natural language processing and large language models, feel free to contact us by zhangyijia@dlmu.edu.cn </font></i></b></p>
+
