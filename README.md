@@ -1,4 +1,4 @@
-<h1 align="center">SENT-DTI: a computational methods for prediction of Drug-Target Interactions</h1>
+<h1 align="center">SENT-DTI: a computational method for prediction of Drug-Target Interactions</h1>
 
 The code is from our new paper in the field of Drug-Target prediction., entitled'' SENT-DTI: Semantic-Enhanced Drug-Target Interaction Prediction with Negative Training Strategy ''. SENT-DTI is a powerful tool designed for DTI prediction task, which leverages advanced algorithms to improve efficiency and accuracy.
 ## Highlight
