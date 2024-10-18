@@ -45,5 +45,5 @@ python main.py
 ``` 
 ## Acknowledgement
 We sincerely thank Weiyu Shi for providing code. Please contact us with Email: standyshi@qq.com
-<u><p><b><i><font size="6">If you are interested in natural language processing and large language models, feel free to contact us by Email: zhangyijia@dlmu.edu.cn </font></i></b></p>
+<u><p><b><i><font size="6">If you are interested in Natural Language Processing and Large Language Models, feel free to contact us by Email: zhangyijia@dlmu.edu.cn </font></i></b></p>
 
