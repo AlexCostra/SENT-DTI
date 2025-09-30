@@ -1,0 +1,74 @@
+C:\Users\Standy\anaconda3\python.exe "D:/学习/程序/network comparasion/DTI_PROJECT/main_sent.py"
+             0         1         2  ...       253       254       255
+0     0.283030  0.140597  0.266290  ...  0.312735 -0.157478  0.008680
+1     0.240383  0.141605  0.199802  ...  0.063136  0.117038  0.045985
+2     0.204013  0.130625  0.227799  ...  0.252618 -0.736276  0.445327
+3     0.291584  0.074404  0.205688  ...  0.116116  0.547014 -0.187976
+4     0.303521  0.122006  0.269830  ...  0.124833  1.005438 -0.283926
+...        ...       ...       ...  ...       ...       ...       ...
+7715  0.074995  0.136125  0.098851  ... -0.094827 -0.610619  0.464820
+7716  0.200147  0.078928  0.234257  ... -0.324418 -1.706435  1.136368
+7717  0.229816  0.016480  0.171668  ... -0.124770 -0.264943  0.299070
+7718  0.263691  0.038207  0.215798  ...  0.138143  0.508462 -0.127619
+7719  0.207738  0.005906  0.275441  ...  0.032426  0.899847 -0.304696
+
+[7720 rows x 256 columns]
+fold0  auroc is 0.7965 aupr is 0.8282 accuracy is 0.7083 recall is 0.9991
+fold0  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9356
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9413
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9497
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9409
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9453
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9453
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9444
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9453
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9422
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9356
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9550
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9603
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9572
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9532
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9572
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9440
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9554
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9475
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9554
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9519
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9479
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9638
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9572
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9638
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9546
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9607
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9563
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9629
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9603
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9638
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9488
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9572
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9603
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9634
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9691
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9625
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9669
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9607
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9660
+fold7719  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9647
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9656
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9665
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9629
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9634
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9616
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9665
+fold7719  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9625
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9616
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9612
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9647
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9660
+fold7712  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9634
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9682
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9634
+fold7717  auroc is 0.9499 aupr is 0.9523 accuracy is 0.9057 recall is 0.9652
+
+
+进程已结束,退出代码0

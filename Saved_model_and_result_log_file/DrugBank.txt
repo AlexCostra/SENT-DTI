@@ -1,0 +1,121 @@
+C:\Users\Standy\anaconda3\python.exe "D:/学习/程序/network comparasion/DTI_PROJECT/main_sent.py"
+              0         1         2  ...       253       254       255
+0      0.219581  0.000000  0.004957  ... -0.165747  0.383749 -0.045810
+1      0.166528  0.000000  0.013892  ...  0.219944 -0.111320  0.097481
+2      0.277563  0.001837  0.002878  ...  0.869637 -0.453272 -0.225257
+3      0.167769  0.000000  0.001059  ...  1.007522 -0.669068 -0.107385
+4      0.219964  0.000235  0.000104  ...  1.041125 -0.678634 -0.341598
+...         ...       ...       ...  ...       ...       ...       ...
+12619  0.119232  0.000031  0.001542  ...  0.891388 -0.600105 -0.685553
+12620  0.290713  0.000000  0.002985  ...  0.361515 -0.059082 -0.258443
+12621  0.242586  0.000648  0.000533  ...  0.979199 -0.625016  0.137751
+12622  0.300591  0.000000  0.008248  ...  0.225480  0.066651 -0.311978
+12623  0.340460  0.000000  0.003497  ...  0.321480 -0.061811 -0.063248
+
+[12624 rows x 256 columns]
+fold0  auroc is 0.8272 aupr is 0.8403 accuracy is 0.5000 recall is 1.0000
+fold0  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8302
+fold12590  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8194
+fold12590  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8302
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8321
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8428
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8302
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8378
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8413
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8352
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8359
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8498
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8476
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8400
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8501
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8530
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8552
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8638
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8571
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8514
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8530
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8508
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8511
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8527
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8571
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8549
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8590
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8622
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8558
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8707
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8612
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8688
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8631
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8631
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8580
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8739
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8653
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8729
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8710
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8628
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8691
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8657
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8704
+fold12603  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8726
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8660
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8647
+fold12615  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8786
+fold12615  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8796
+fold12615  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8638
+fold12615  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8793
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8843
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8856
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8736
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8774
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8777
+fold12615  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8840
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8793
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8897
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8669
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8736
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8752
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8850
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8805
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8805
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8843
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8723
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8736
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8840
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8856
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8745
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8809
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8809
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8840
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8935
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8913
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8850
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8859
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8923
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8866
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8856
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8885
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8824
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8805
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8783
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8869
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8856
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8853
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8878
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8856
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8812
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8802
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8859
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8885
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8809
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8932
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8869
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8790
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8859
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8932
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8894
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8875
+fold12617  auroc is 0.9008 aupr is 0.9057 accuracy is 0.8425 recall is 0.8897
+zheng,0.8272 ,0.8403,0.5000
+zheng,0.9008 ,0.9057,0.8425
+
+进程已结束,退出代码0
